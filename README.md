@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salehalakhras
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning The Odin Project.
+- 🌱 I’m currently learning Web Development with the Full Stack Open program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
