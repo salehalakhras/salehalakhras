@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @salehalakhras
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Web Development with the Full Stack Open program
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at salehalakhras56@gmail.com
 
 <!---
 salehalakhras/salehalakhras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
